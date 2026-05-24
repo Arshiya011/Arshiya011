@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Mohammad Arshiya Naaz
 
-<!--
-**Arshiya011/Arshiya011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Artificial Intelligence and Data Science (AIDS)  
+💻 Passionate about AI, technology, and building real-world projects  
+🐍 Skilled in Python and SQL  
+🚀 Always learning and exploring new technologies  
 
-Here are some ideas to get you started:
+## 🔭 What I'm currently working on
+- Building projects in Artificial Intelligence and Data Science
+- Improving my Python, SQL, and development skills
+- Exploring AI applications and real-world solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- GitHub: Arshiya011
+- Email: arshiyanaax011@gmail.com
+- LinkedIn: https://www.linkedin.com/in/arshiyanaaz011/
+
+## ⚡ Fun facts about me
+- 🎥 I enjoy shooting videos and editing them as a hobby
+- 🎨 I love doing art and crafts
+- 🧸 I enjoy collecting miniature pieces
+- 🤖 AI enthusiast who loves learning new things
